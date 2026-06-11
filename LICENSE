@@ -1,0 +1,26 @@
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+# 知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议
+
+本项目为衍生作品，基于数据集：
+https://huggingface.co/datasets/minhaozhang/minecraft-question-answer-630k
+原始数据溯源：naklecha/minecraft-question-answer-700k
+原始内容版权归原作者所有。
+
+### 许可条款
+1. 署名（BY）
+使用、分发、改编本项目时，必须完整标注上游数据源、原作者及本项目整理者信息。
+
+2. 非商业性使用（NC）
+禁止将本数据集、代码、翻译内容用于任何商业场景、付费服务、商业产品。仅允许个人学习、学术研究等非商业用途。
+
+3. 相同方式共享（SA）
+若对本项目进行二次修改、二次分发、二次衍生，衍生作品必须采用本协议（CC BY-NC-SA 4.0）公开。
+
+### 附加约定
+使用本项目需同时严格遵守上游数据集的开源协议与使用规范。
+
+### 免责声明
+本项目按现状提供，不提供任何明示或暗示的担保。因使用本项目所产生的一切风险与问题，本项目整理者不承担相关责任。
+
+Copyright (c) [TqZzMiao]
+完整官方协议文本：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
